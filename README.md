@@ -1,4 +1,8 @@
 # prueba_tecnica
+
+A partir del archivo ventas_nuevas.xlsx
+
+
  1.	Generar un dataset que agrupe por item y mes, desde enero 2020 a enero 2022, la cantidad total de ventas en kilos. 
 
  Para lo solución del punto, se subio el archivo a Google colabority en el archivo de Datos_de_DataUp.ipynb, al leerlo se muestra un archivo que debe ser depurado con fines práctica para poder realizar un manejo mas practico de la información contenida en el documento. Para esto se eliminan algunas columnas y filas, también se renombran las columnas, al finas se cambie el type de dato para las columnas de Venta_Neta_Kilos y Venta_Neta_ME de object a float, esto con fin de poder verificar que ninguna de las ventas sea negativa. 
