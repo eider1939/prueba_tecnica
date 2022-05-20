@@ -1,0 +1,2 @@
+# prueba_tecnica
+ 1.	Generar un dataset que agrupe por item y mes, desde enero 2020 a enero 2022, la cantidad total de ventas en kilos.    2.	Generar un dataset con el máximo, mínimo y promedio de venta en dinero por cada item desde enero 2021 a diciembre 2021.                        3.	Generar un pronóstico de ventas en kilos por cada item para el mes en curso: febrero 2022. El modelo o técnica de pronóstico es de libre elección, puede ser tan simple o avanzado como se prefiera.
